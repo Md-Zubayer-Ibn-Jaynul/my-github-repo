@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    color: blue;
+}
+#title{
+    text-align: center;
+    color:blueviolet;
+}
+p{
+    text-align: justify;
+}
+.shoping{
+    color:crimson;
+}
+.food{
+    color: rgb(149, 0, 255);
+}
