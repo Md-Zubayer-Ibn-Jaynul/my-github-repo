@@ -1,17 +1,32 @@
-.heading{
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.heading {
     text-align: center;
     color: blue;
 }
-#title{
+
+#title {
     text-align: center;
-    color:blueviolet;
+    color: blueviolet;
 }
-p{
+
+.description {
+    background-image: url('../images/cox\ img.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+p {
     text-align: justify;
 }
-.shoping{
-    color:crimson;
+
+.shoping {
+    color: crimson;
 }
-.food{
+
+.food {
     color: rgb(149, 0, 255);
 }
