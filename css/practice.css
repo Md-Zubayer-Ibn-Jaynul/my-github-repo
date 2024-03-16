@@ -1,11 +1,14 @@
 * {
     margin: 0%;
-    padding: 0%;
 }
 
 .heading {
     text-align: center;
     color: blue;
+}
+
+div {
+    padding: 5px;
 }
 
 #title {
@@ -14,13 +17,20 @@
 }
 
 .description {
+    padding: 5px;
     background-image: url('../images/cox\ img.jpg');
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    height: 100vh;
+    text-align: justify;
 }
 
 p {
     text-align: justify;
+}
+
+span {
+    padding: 5px;
 }
 
 .shoping {
