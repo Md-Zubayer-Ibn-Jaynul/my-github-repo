@@ -40,3 +40,19 @@ span {
 .food {
     color: rgb(149, 0, 255);
 }
+
+/* Responsive Media Query */
+
+/* Small Devices */
+@media screen and (max-width: 576px) {
+    .description {
+        height: auto;
+    }
+}
+
+/* Medium Devices */
+@media screen and (min-width: 576px) and (max-width: 992px) {
+    .description {
+        height: auto;
+    }
+}
